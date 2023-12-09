@@ -1,4 +1,4 @@
-# sql_test-assignment
+# sql-test-assignment
 Решение тестового задания на позицию инженер данных.
 ### Инструменты
 Использовал WSL, Ubuntu, Docker, Clickhouse, DBeaver, DBT и Git.
